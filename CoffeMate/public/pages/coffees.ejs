@@ -1,0 +1,54 @@
+<div class="jumbotron text-center">
+    <h1>List All Coffees</h1>
+
+    <p>{{ message }}</p>
+
+    <div ng-controller="coffeesController as list">
+        <table align="center" valign="middle">
+            <tbody ng-repeat="coffee in coffees | orderBy:'-rating'">
+            <tr style="height:55px; font-size:20px; margin-left:20px; margin-right:20px; valign="middle"; >
+            <td>
+                <div class="star">
+                <span ng-if="coffee.favorite" class="glyphicon glyphicon-star gi-small blue">
+
+
+        <span ng-if="coffee.favorite===false" class = "glyphicon glyphicon-star gi-small">
+        {{coffee.favorite}}
+        </span>
+                </div>
+
+            <td>
+                {{coffee.rating}}
+                <span class="glyphicon glyphicon-star" gi-small></span>
+
+            </td>
+            <td>
+                <span style="height:55px; font-size:20px; margin-left:20px; margin-right:20px; valign="middle";>{{coffee.coffeName}}</span>
+            </td>
+            <td>
+                <span style="height:55px; font-size:20px; margin-left:40px; margin-right:20px; valign="middle";>{{coffee.coffeeShop}}</span>
+
+            </td>
+            <td>
+                <span class="glyphicon glyphicon-euro"></span>
+                {{coffee.coffePrice | number:2}}
+            </td>
+
+            <td>
+
+                <span style="height:55px; font-size:20px; margin-left:20px; margin-right:20px; valign="middle";>
+
+
+                <button type="button" class="btn btn-default" ng-click="deleteCoffee(coffee._id)">
+                    <span class="glyphicon glyphicon-remove"></span> Remove
+                </button>
+                <button type="button" class="btn btn-default" ng-click="updateCoffee(coffee._id)">
+                    <span class="glyphicon glyphicon-edit"></span> Edit
+                </button>
+                </span>
+            </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

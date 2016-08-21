@@ -1,0 +1,106 @@
+<div class="jumbotron text-center">
+    <h1>Edit Coffee Page!</h1>
+
+    <p>{{ message }}</p>
+
+    <div ng-controller="updateCoffee">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+
+                <form ng-submit="editCoffee(coffee._id)"
+                      style="margin-top:30px;">
+
+                    <div class="form-group" align="center">
+                        <p>Favourite</p>
+<span ng-click="favourite()">
+<div ng-if="coffee.favorite=== true">
+    <i id="favourite-toggle" class="glyphicon glyphicon-star gi-5x favourite-true"></i>
+</div>
+<div ng-if="coffee.favorite === false">
+    <i id="favourite-toggle" class="glyphicon glyphicon-star gi-5x favourite-false"></i>
+</div>
+</span>
+                    </div>
+                    <div class="form-group" align="center">
+                        Coffee Name
+                        <input type="string"
+                               class="form-control"
+                               ng-model="coffee.coffeName"
+                               ng-style="{'width': 250 + 'px'}" required/>
+                    </div>
+                    <div class="form-group" align="center">
+                        Coffee Shop
+
+                        <input type="string"
+                               class="form-control"
+                               ng-model="coffee.coffeeShop"
+                               ng-style="{'width': 250 + 'px'}" required/>
+                    </div>
+
+                    <div class="form-group" align="center">
+                        Price
+                        <input type="number"
+                               step="0.01"
+                               class="form-control"
+                               ng-model="coffee.coffePrice"
+                               ng-style="{'width': 100 + 'px'}" required/>
+
+
+                    </div>
+
+                    <div class = "form-group" align = "center">
+                        Star Rating
+                        <div class="rating">
+                            <!--first star -->
+<span ng-if="coffee.rating>4" class="glyphicon glyphicon-star gi-3x yellow" ng-click="setStar(5)" >
+</span>
+
+
+<span ng-if="coffee.rating<=4" class="glyphicon glyphicon-star gi-3x gray" ng-click="setStar(5)" >
+</span>
+
+                            <!--second star -->
+
+<span ng-if="coffee.rating>3" class="glyphicon glyphicon-star gi-3x yellow" ng-click="setStar(4)">
+</span>
+
+
+<span ng-if="coffee.rating<=3" class="glyphicon glyphicon-star gi-3x gray" ng-click="setStar(4)">
+</span>
+
+                            <!--third star -->
+
+<span ng-if="coffee.rating>2" class="glyphicon glyphicon-star gi-3x yellow" ng-click="setStar(3)">
+</span>
+
+
+<span ng-if="coffee.rating<=2" class="glyphicon glyphicon-star gi-3x gray" ng-click="setStar(3)">
+</span>
+
+                            <!--fourth star -->
+
+<span ng-if="coffee.rating>1" class="glyphicon glyphicon-star gi-3x yellow" ng-click="setStar(2)">
+</span>
+
+<span ng-if="coffee.rating<=1" class="glyphicon glyphicon-star gi-3x gray" ng-click="setStar(2)">
+</span>
+
+                            <!--fifth star -->
+
+<span ng-if="coffee.rating>0" class="glyphicon glyphicon-star gi-3x yellow" ng-click="setStar(1)">
+</span>
+
+
+<span ng-if="coffee.rating<=0" class="glyphicon glyphicon-star gi-3x gray" ng-click="setStar(1)">
+</span>
+
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Edit Coffee</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+
+</div>

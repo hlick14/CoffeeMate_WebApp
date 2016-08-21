@@ -1,0 +1,1230 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="no-js iem7 oldie"><![endif]-->
+<!--[if lt IE 7]><html class="no-js ie6 oldie" lang="en"><![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js ie7 oldie" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js ie8 oldie" lang="en"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html style="" class="js video adownload csscalc cssgradients multiplebgs opacity rgba placeholder supports displaytable display-table fontface generatedcontent lastchild nthchild textshadow cssanimations no-backgroundcliptext no-bgpositionxy backgroundsize bgsizecover borderradius boxshadow boxsizing cssfilters flexbox flexboxlegacy no-flexboxtweener no-cssreflections csstransforms csstransforms3d csstransitions mti-inactive" lang="en"><!--<![endif]--><!--[if (gte IE 9)|(gt IEMobile 7)]><!--><!--<![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252"><!-- PageID 169 - published by Open Text Web Solutions 10.1 - 10.1.2.365 - 39250 -->
+<script src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/cse.js" async="" type="text/javascript"></script>
+<script>
+ _udn = ".baxi.co.uk";
+</script>
+
+<!-- Google Analytics Content Experiment code -->
+<script>function utmx_section(){}function utmx(){}(function(){var
+k='5875146-1',d=document,l=d.location,c=d.cookie;
+if(l.search.indexOf('utm_expid='+k)>0)return;
+function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
+indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
+length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
+'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
+'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
+valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
+</script><script>utmx('url','A/B');</script>
+<!-- End of Google Analytics Content Experiment code -->
+
+<title>Baxi - Energy efficient boilers and heating solutions</title>
+<meta name="googlebot" content="NOODP">
+<meta name="Description" content="Committed to providing efficient boilers and innovative heating and hot water solutions for our customers. ">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="google-site-verification" content="clQgrDvY7mnRzzppyI-UhTjwuWgG6qweIEWQRGlTLjs">
+
+    <link href="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/grids-core.css" rel="stylesheet" media="screen">
+    <link href="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/grids-r.css" rel="stylesheet" media="screen">
+    <link href="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/grids-units.css" rel="stylesheet" media="screen">
+    <link href="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/mreset.css" rel="stylesheet" media="screen">
+    <link href="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/baxi.css" rel="stylesheet" media="screen">
+    <link href="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/homebanner.css" rel="stylesheet" media="screen">
+
+    <link href="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/colorbox.css" rel="stylesheet" media="screen">
+    <link href="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/able-to-pay.css" rel="stylesheet" media="screen">
+
+    <link href="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/yotm.css" rel="stylesheet" media="screen">
+
+    <script src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/modernizr.js"></script>
+
+    <script src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/jquery_003.js"></script>
+
+    <!--[if (gte IE 6)&(lte IE 8)]>
+      <script type="text/javascript" src="/js/selectivizr-min.js></script>
+    <![endif]-->
+
+    <link rel="shortcut icon" href="http://www.baxi.co.uk/Images/page/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="http://www.baxi.co.uk/Images/page/favicon.ico" type="image/x-icon">
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-3054647-1', 'auto');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+    </script>
+
+    <!-- Handling any old ga event tracking -->
+    <script>
+        var _gaq = [];
+    </script>
+<script>
+/** * Function that tracks a click on an outbound link in Analytics.
+* This function takes a valid URL string as an argument, and uses that URL string
+* as the event label. Setting the transport method to 'beacon' lets the hit be sent
+* using 'navigator.sendBeacon' in browser that support it. */
+var trackOutboundLink = function(url) {
+ga('send', 'event', 'Outbound', 'Click', url, {'transport': 'beacon', 'hitCallback': function(){document.location = url;}});
+}
+</script>
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "url" : "http://www.baxi.co.uk",
+  "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+44-3448711545",
+      "contactType" : "Customer Support"
+    } ] }
+</script>
+
+<!-- Add site search to search results -->
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"url": "http://www.baxi.co.uk/index.htm",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "http://www.baxi.co.uk/index.htm?q={search_term_string}",
+"query-input": "required name=search_term_string"
+}
+}
+</script>
+
+    <script async="" type="text/javascript" src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/6b4deb83-6bcf-4c0b-abf5-643ee0f9330d.js"></script>
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0027/6242.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<style id="mti_stylesheet_6b4deb83-6bcf-4c0b-abf5-643ee0f9330d" type="text/css">.mti_hide_element{visibility:hidden;}</style><style id="mti_fontface_6b4deb83-6bcf-4c0b-abf5-643ee0f9330d" type="text/css">@font-face{
+font-family:"Neo Sans W01 Light";
+src:url("http://fast.fonts.net/dv2/14/e0bd859d-12b1-41c1-9b67-003688d01609.woff2?d44f19a684109620e484167ea590e818eb16bf8a939db911f5fcd7be2054b5af9f407fd262b0c12d2afbf364f394455f96d724c622124c74d6cd039426a7dd198787012bf65bb28cc6bf5d5eac2b1a948630d211c19aa7f8272047c3747f3ac42588d1ed4d5368cf129d866b9a40f8b9972bb6c8fa957e7e6e57d1625632b7960589387ce9addcf92657403a5ff51e553ade184868029bd69095355836c1987dc129f8674c1b2c38d59fe94eb9fc3265cc664787d5db8185c7600201c78805ebbbcb8698263d11a797a38e29489448d36491e09d76db08412e58fa16e1656a5567efe1bf89c3f37894cba694cbfb5b9e65fc973e247575181327ede1cc88ef8dd31f60c18fad984ab4534be02da66c7a&projectId=6b4deb83-6bcf-4c0b-abf5-643ee0f9330d") format('woff2');}
+@font-face{
+font-family:"Neo Sans W01";
+src:url("http://fast.fonts.net/dv2/14/a53085dd-4493-4430-8349-fd63d6f3e5bc.woff2?d44f19a684109620e484167ea590e818eb16bf8a939db911f5fcd7be2054b5af9f407fd262b0c12d2afbf364f394455f96d724c622124c74d6cd039426a7dd198787012bf65bb28cc6bf5d5eac2b1a948630d211c19aa7f8272047c3747f3ac42588d1ed4d5368cf129d866b9a40f8b9972bb6c8fa957e7e6e57d1625632b7960589387ce9addcf92657403a5ff51e553ade184868029bd69095355836c1987dc129f8674c1b2c38d59fe94eb9fc3265cc664787d5db8185c7600201c78805ebbbcb8698263d11a797a38e29489448d36491e09d76db08412e58fa16e1656a5567efe1bf89c3f37894cba694cbfb5b9e65fc973e247575181327ede1cc88ef8dd31f60c18fad984ab4534be02da66c7a&projectId=6b4deb83-6bcf-4c0b-abf5-643ee0f9330d") format('woff2');}
+@font-face{
+font-family:"Neo Sans W01 Italic";
+src:url("http://fast.fonts.net/dv2/14/9ff15e66-152b-4d48-a338-ab8c95431ca7.woff2?d44f19a684109620e484167ea590e818eb16bf8a939db911f5fcd7be2054b5af9f407fd262b0c12d2afbf364f394455f96d724c622124c74d6cd039426a7dd198787012bf65bb28cc6bf5d5eac2b1a948630d211c19aa7f8272047c3747f3ac42588d1ed4d5368cf129d866b9a40f8b9972bb6c8fa957e7e6e57d1625632b7960589387ce9addcf92657403a5ff51e553ade184868029bd69095355836c1987dc129f8674c1b2c38d59fe94eb9fc3265cc664787d5db8185c7600201c78805ebbbcb8698263d11a797a38e29489448d36491e09d76db08412e58fa16e1656a5567efe1bf89c3f37894cba694cbfb5b9e65fc973e247575181327ede1cc88ef8dd31f60c18fad984ab4534be02da66c7a&projectId=6b4deb83-6bcf-4c0b-abf5-643ee0f9330d") format('woff2');}
+@font-face{
+font-family:"Neo Sans W01 Medium";
+src:url("http://fast.fonts.net/dv2/14/f056e9e7-3bb5-4f21-b861-ed2a47a0700b.woff2?d44f19a684109620e484167ea590e818eb16bf8a939db911f5fcd7be2054b5af9f407fd262b0c12d2afbf364f394455f96d724c622124c74d6cd039426a7dd198787012bf65bb28cc6bf5d5eac2b1a948630d211c19aa7f8272047c3747f3ac42588d1ed4d5368cf129d866b9a40f8b9972bb6c8fa957e7e6e57d1625632b7960589387ce9addcf92657403a5ff51e553ade184868029bd69095355836c1987dc129f8674c1b2c38d59fe94eb9fc3265cc664787d5db8185c7600201c78805ebbbcb8698263d11a797a38e29489448d36491e09d76db08412e58fa16e1656a5567efe1bf89c3f37894cba694cbfb5b9e65fc973e247575181327ede1cc88ef8dd31f60c18fad984ab4534be02da66c7a&projectId=6b4deb83-6bcf-4c0b-abf5-643ee0f9330d") format('woff2');}
+@font-face{
+font-family:"Neo Sans W01 Bold";
+src:url("http://fast.fonts.net/dv2/14/82a34ab2-92d9-48c4-989d-50d5bd54fdd1.woff2?d44f19a684109620e484167ea590e818eb16bf8a939db911f5fcd7be2054b5af9f407fd262b0c12d2afbf364f394455f96d724c622124c74d6cd039426a7dd198787012bf65bb28cc6bf5d5eac2b1a948630d211c19aa7f8272047c3747f3ac42588d1ed4d5368cf129d866b9a40f8b9972bb6c8fa957e7e6e57d1625632b7960589387ce9addcf92657403a5ff51e553ade184868029bd69095355836c1987dc129f8674c1b2c38d59fe94eb9fc3265cc664787d5db8185c7600201c78805ebbbcb8698263d11a797a38e29489448d36491e09d76db08412e58fa16e1656a5567efe1bf89c3f37894cba694cbfb5b9e65fc973e247575181327ede1cc88ef8dd31f60c18fad984ab4534be02da66c7a&projectId=6b4deb83-6bcf-4c0b-abf5-643ee0f9330d") format('woff2');}
+</style><link href="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/1.css" rel="stylesheet" type="text/css" id="MonoTypeFontApiFontTracker"><script type="text/javascript" src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/jsapi"></script><link rel="stylesheet" href="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/defaulten.css" type="text/css"><link rel="stylesheet" href="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/shiny.css" type="text/css"></head>
+<body class="home yotm">
+
+<!-- Qualaroo for baxi.co.uk -->
+<script type="text/javascript">
+  var _kiq = _kiq || [];
+  (function(){
+    setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
+    s.async = true; s.src = '//s3.amazonaws.com/ki.js/52893/boV.js'; f.parentNode.insertBefore(s, f);
+    }, 1);
+  })();
+</script>
+
+<!-- Google Custom Search integration -->
+<script>
+  (function() {
+    var cx = '002868019326744212628:oydpqgaalro';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+
+<div class="wrapper">
+
+
+    <header class="pure-g-r mainHead">
+
+            <a class="pure-u-1-6" href="">
+
+            </a>
+
+            <div class="pure-u-5-6">
+
+                <div class="headSearch gone-small">
+                    <form action="" method="get" name="search" id="gsearch">
+                        <input id="q" name="q" placeholder="Search" type="text"><button class="searchButt"></button>
+                    </form>
+                </div>
+
+                <!-- main nav -->
+                <nav>
+
+                    <span><a class="navburger" href="#"></a></span>
+                    <div id="mainNav" class="trt">
+                        <!--a data-subnav="sub-1" class="active" href="">Home</a-->
+
+    <a data-subnav="sub-5c2795b9-9418-49d7-bb1e-91d51af9b9cd" data-directlink="false" class="hasSub" href="http://www.baxi.co.uk/gas-boilers.htm">Gas boilers <i class="icon-caret-down"></i></a>
+
+    <a data-subnav="NONE" data-directlink="true" class="hasSub" href="http://www.baxi.co.uk/findaboiler.htm">asdad <i class="icon-caret-down"></i></a>
+
+    <a data-subnav="sub-08a03645-a9e5-4784-8418-c7330094cbf0" data-directlink="false" class="hasSub" href="http://www.baxi.co.uk/renewables.htm">Renewables <i class="icon-caret-down"></i></a>
+
+    <a data-subnav="sub-97df3009-1809-4d47-a7c5-fdeecf0fe8ba" data-directlink="" class="hasSub" href="http://www.baxi.co.uk/customer-support.htm">Customer Support <i class="icon-caret-down"></i></a>
+
+    <a data-subnav="NONE" data-directlink="true" class="hasSub" href="http://www.baxi.co.uk/parts.htm">Parts <i class="icon-caret-down"></i></a>
+
+
+
+                     </div>
+                </nav>
+                <!-- end main nav -->
+            </div>
+
+            <!-- megamenu nav -->
+            <div class="pure-g-r">
+                <div class="pure-u-1">
+                    <div style="height:0;" class="subnavWrapper gutter">
+
+            <div data-subnav="sub-5c2795b9-9418-49d7-bb1e-91d51af9b9cd" class="subnav">
+              <div class="pure-g-r">
+                <div class="pure-u-1">
+                  <a class="lplink" href="http://www.baxi.co.uk/gas-boilers.htm">Gas boilers</a><!-- level 2 link -->
+                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/gas-boilers/combi.htm">Combi boilers</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/combi/ecoblue-plus-combi.htm">EcoBlue + Combi</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/combi/ecoblue-advance-combi.htm">EcoBlue Advance Combi</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/combi/platinum.htm">Platinum Combi</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/combi/duo-tec.htm">Duo-tec Combi</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/gas-boilers/system.htm">System boilers</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/system/ecoblue-system.htm">EcoBlue System</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/system/megaflo.htm">Megaflo System</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/gas-boilers/heat-only.htm">Heat only boilers</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/heat-only/ecoblue-heat.htm">EcoBlue Heat</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/heat-only/ecoblue-advance-heat.htm">EcoBlue Advance Heat</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/gas-boilers/accessories-and-controls.htm">Accessories &amp; controls</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/controls.htm">Controls from Baxi</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/nest-and-smart-controls.htm">Nest &amp; Smart controls</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/flue-and-multifit-accessories.htm">Flues and Multifit Accessories</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/gas-boilers/discontinued-products.htm">Discontinued products</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/discontinued-products/the-baxi-maineco-range-has-been-dicontinued.htm">Baxi MainEco range</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/discontinued-products/the-baxi-avanta-range-has-been-discontinued.htm">Baxi Avanta range</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/discontinued-products/baxi-solo-he-a-has-been-discontinued.htm">Baxi Solo HE A</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/discontinued-products/the-baxi-ga-range-has-been-discontinued.htm">Baxi GA range</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/discontinued-products/baxi-bioflo.htm">Baxi Bioflo</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/gas-boilers/replacement-products.htm">Replacement products</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/replacing-your-boiler.htm">Replacing your boiler</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/gas-boilers/boiler-information.htm">Boiler information</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/boiler-information/condensing-boilers.htm">Condensing boilers</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/gas-boilers/boilers-and-service-maintenance.htm">Boiler servicing and maintenance</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/central-heating-maintenance.htm">Central heating maintenance</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/maintaining-a-healthy-boiler.htm">Maintaining a healthy boiler</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/gas-boilers/boiler-installation.htm">Boiler installation</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/gas-boilers/boiler-efficiency.htm">Boiler efficiency</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/high-efficiency-boilers.htm">High efficiency boilers</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/efficiency-calculator.htm">Efficiency calculator</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+              </div>
+            </div>
+
+            <div data-subnav="sub-c8800617-cc87-4e35-be11-afdd4b4a1f6d" class="subnav">
+              <div class="pure-g-r">
+                <div class="pure-u-1">
+                  <a class="lplink" href="http://www.baxi.co.uk/findaboiler.htm">Find a boiler</a><!-- level 2 link -->
+                </div>
+
+              </div>
+            </div>
+
+            <div data-subnav="sub-08a03645-a9e5-4784-8418-c7330094cbf0" class="subnav">
+              <div class="pure-g-r">
+                <div class="pure-u-1">
+                  <a class="lplink" href="http://www.baxi.co.uk/renewables.htm">Renewables</a><!-- level 2 link -->
+                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/renewables/solar-thermal.htm">Solar thermal water heating</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/renewables/solar/solarflo.htm">Solarflo</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/renewables/combined-heat-and-power.htm">Combined heat and power</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/renewables/combined-heat-and-power/senertec-dachs.htm">SenerTec Dachs mini-CHP</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/renewables/domestic-renewable-heat-incentive.htm">Domestic Renewable Heat Incentive</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/renewables/what-is-microgeneration.htm">What is Microgeneration?</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/renewables/microgeneration-certification-scheme.htm">Microgeneration Certification Scheme</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+              </div>
+            </div>
+
+            <div data-subnav="sub-97df3009-1809-4d47-a7c5-fdeecf0fe8ba" class="subnav">
+              <div class="pure-g-r">
+                <div class="pure-u-1">
+                  <a class="lplink" href="http://www.baxi.co.uk/customer-support.htm">Customer Support</a><!-- level 2 link -->
+                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/customer-support/repairs.htm">Repairs</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/customer-support/servicing.htm">Servicing</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/customer-support/servicing/annual-service-offer.htm">Annual Service Offer</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/customer-support/register-your-warranty.htm">Register your warranty</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/customer-support/about-customer-support.htm">About customer support</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/customer-support/about-customer-support/opening-hours.htm">Opening hours</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/customer-support/customer-relations.htm">Customer relations</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/customer-support/customer-relations/contact-lee.htm">Contact Lee</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/customer-support/baxi-protection-plans.htm">Baxi Protection Plans</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+              </div>
+            </div>
+
+            <div data-subnav="sub-3a6b98c0-0d11-42d0-b8a7-9963f7f2ffa3" class="subnav">
+              <div class="pure-g-r">
+                <div class="pure-u-1">
+                  <a class="lplink" href="http://www.baxi.co.uk/parts.htm">Parts</a><!-- level 2 link -->
+                </div>
+
+              </div>
+            </div>
+
+            <div data-subnav="sub-266c8054-e12c-44f1-bcec-c781a4811621" class="subnav">
+              <div class="pure-g-r">
+                <div class="pure-u-1">
+                  <a class="lplink" href="http://www.baxi.co.uk/information-and-advice.htm">Advice</a><!-- level 2 link -->
+                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/information-and-advice/energy-efficiency.htm">Energy efficiency</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/information-and-advice/energy-efficiency/energy-efficiency-tips.htm">Energy Efficiency tips</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/information-and-advice/energy-efficiency/how-to-save-energy-at-home.htm">How to save energy at home</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/information-and-advice/energy-efficiency/gas-and-energy-bills-explained.htm">Gas and energy bills explained</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/information-and-advice/energy-efficiency/energy-efficiency-guide.htm">Energy Efficiency Guide</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/gas-boilers/efficiency-calculator.htm">Efficiency calculator</a><!-- Level 4 links self-->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/information-and-advice/error-codes.htm">Error codes</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/information-and-advice/how-to-videos.htm">How to videos</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/information-and-advice/legislation-and-grants.htm">Legislation and Grants</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/information-and-advice/renewable-heat-incentive-faqs.htm">Renewable Heat Incentive FAQs</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/information-and-advice/faqs.htm">Frequently Asked Questions (FAQs)</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/why-is-my-hot-water-not-hot.htm">Why is my hot water not hot?</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/how-can-i-find-the-age-of-my-boiler.htm">How can I find the age of my boiler?</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/why-dont-we-put-the-prices-of-our-boilers-on-our-website.htm">Why don't we put the prices of our boilers on our website?</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/where-in-my-house-is-it-safe-to-install-a-boiler.htm">Where in my house is it safe to install a boiler?</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/why-should-i-consider-replacing-my-boiler.htm">Why should I consider replacing my boiler?</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/baxi-questions.htm">FAQs</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/information-and-advice/heating-advice.htm">Heating advice</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/information-and-advice/heating-advice/heating-system-maintenance.htm">Heating system maintenance</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/information-and-advice/heating-advice/heating-terms-explained-simply.htm">Heating terms explained simply</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/information-and-advice/heating-advice/winter-advice.htm">Winter advice</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/information-and-advice/heating-advice/water-pressure-hints-and-tips.htm">Water pressure hints and tips</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+              </div>
+            </div>
+
+            <div data-subnav="sub-fb5e2a12-1940-4440-9a78-0c5fc82099d4" class="subnav">
+              <div class="pure-g-r">
+                <div class="pure-u-1">
+                  <a class="lplink" href="http://www.baxi.co.uk/about-baxi.htm">About Baxi</a><!-- level 2 link -->
+                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/about-baxi/baxi-brand-history.htm">Baxi brand history</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/about-baxi/baxi-brand-overview-and-values.htm">Baxi brand overview and values</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/about-baxi/bdr-thermea.htm">BDR Thermea</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/about-baxi/baxi-csr.htm">Corporate social responsibility</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/about-baxi/csr/marie-curie.htm">Marie Curie</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/about-baxi/csr/baxi-in-the-community.htm">Baxi in the community</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/about-baxi/baxi-awards.htm">Baxi awards</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/about-baxi/Whos_who_at_Baxi.htm">Who's who at Baxi</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/about-baxi/baxi-makes-it-easy.htm">Baxi makes it easy</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/about-baxi/contact-baxi.htm">Contact Baxi</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/about-baxi/careers.htm">Careers</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/about-baxi/where-to-buy.htm">Where to buy</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/about-baxi/cookie-policy.htm">Cookie policy</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/about-baxi/industry-organisations.htm">Industry organisations</a></span> <!-- Level 3 link -->
+
+
+
+                                    </div>
+                                </div>
+
+              </div>
+            </div>
+
+            <div data-subnav="sub-b412eb62-c255-4cb1-b782-bb4059c618fd" class="subnav">
+              <div class="pure-g-r">
+                <div class="pure-u-1">
+                  <a class="lplink" href="http://www.baxi.co.uk/news.htm">News</a><!-- level 2 link -->
+                </div>
+
+              </div>
+            </div>
+
+            <div data-subnav="sub-4dc6b5e8-5e42-4a2c-b63e-a540188bd68b" class="subnav">
+              <div class="pure-g-r">
+                <div class="pure-u-1">
+                  <a class="lplink" href="http://www.baxi.co.uk/trade-area.htm">Trade Area</a><!-- level 2 link -->
+                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/trade-area/promotions.htm">Promotions</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/trade-area/promotions/ecoblue-advance-combi-warranty.htm">EcoBlue Advance Combi warranty</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/promotions/warranty-offers-extended.htm">Extended warranty offer</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/promotions/trust-baxi-to-add-more.htm">Trust Baxi to add more with A+++ package</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/promotions/ecoblue-plus-combi-7-year-warranty-promotion.htm">EcoBlue+ Combi 7 year warranty promotion</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/promotions/baxi-toolbelt-app.htm">Baxi Toolbelt app</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/promotions/earn-double-works-points-on-all-baxi-boilers.htm">Earn double Works points on all Baxi boilers</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/trade-area/training.htm">Training</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/trade-area/training/training-courses.htm">Training courses</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/training/training-centres.htm">Training centres</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/training/book-a-course.htm">Book a course</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/training/free-product-training-days.htm">Free Product Training Days</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/training/nest-training.htm">Nest Training</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/training/meet-our-trainers.htm">Meet our trainers</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+                                <div class="pure-u">
+                                    <div class="subnavitems gutter">
+                                        <span><a href="http://www.baxi.co.uk/trade-area/support.htm">Support</a></span> <!-- Level 3 link -->
+
+
+                            <a href="http://www.baxi.co.uk/trade-area/support/community.htm">Community</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/support/specification.htm">Specification</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/support/advice.htm">Advice</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/support/works.htm">Works</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/support/image-request.htm">Image request</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/support/erp-and-eco-labelling.htm">ErP and Eco Labelling</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/support/parts.htm">Baxi Genuine Parts</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/support/installation-support.htm">Installation support</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/support/error-codes.htm">Error codes</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/support/technical-support-helpline.htm">Technical support helpline</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/support/local-trade-mornings.htm">Local trade mornings</a><!-- Level 4 links original -->
+
+                            <a href="http://www.baxi.co.uk/trade-area/support/baxi-commercial.htm">Baxi Commercial</a><!-- Level 4 links original -->
+
+
+                                    </div>
+                                </div>
+
+              </div>
+            </div>
+
+                    </div>
+                </div>
+            </div>
+        <!-- end megamenu nav -->
+
+    </header>
+
+
+
+</div>
+
+
+
+
+<!--CONTENT-->
+<div class="helpernav">
+    <div class="wrapper">
+        <nav>
+
+
+        </nav>
+        <div class="contact">
+            <!--img src="/Images/home/icon-helpernav-phone.png"-->
+            <span>Call us on:</span> <a href="tel:086%20871%201545">086 871 1545</a>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="cta divider header">
+    <div class="wrapper flex">
+        <img src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/baxi150-homepage.png">
+        <div class="contentBlock">
+            <h1>Explore our products</h1>
+            <p>Why pay more for heating systems, We provide excellenet price and quality</p>
+            <div class="linkBlock">
+                <a class="buttonesque orange" href="http://www.baxi.co.uk/gas-boilers.htm">View the product range&nbsp;&gt;</a>
+                s
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Header banner -->
+
+
+<!-- Two up finder row -->
+<div id="abId0.4573700550669497" class="finder">
+    <div id="abId0.0972270652428292" class="wrapper flex">
+<div></div>
+
+        <div id="abId0.823945440139279" class="cta find installer">
+            <div class="beta"><img src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/icon-blue-find.png">Find product by name</div>
+            <!--form id="search-location-form" action="http://installers.baxi.co.uk/search" method="get"-->
+                <input name="address" id="failocation" placeholder="Enter your postcode" type="text">
+                <button onclick="openFAI()"></button>
+            <!--/form--><br>
+            <a href="http://www.baxi.co.uk/why-dont-we-put-the-prices-of-our-boilers-on-our-website.htm">How to buy information</a>
+        </div>
+        <div class="cta find boiler">
+            <div class="beta"><img src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/icon-blue-boiler.png">Find a boiler</div>
+            <!--a href="/findaboiler.htm" class="buttonesque">Use the find a boiler tool&nbsp;&gt;</a-->
+
+            <form action="/findaboiler.htm" method="GET">
+                <select name="preselect">
+                    <option value="" selected="selected" disabled="disabled">Choose boiler type</option>
+                    <option value="boiler_type_combi">Combi</option>
+                    <option value="boiler_type_heatonly">Heat only</option>
+                    <option value="boiler_type_system">System</option>
+                    <option value="boiler_type_back">Back</option>
+                    <option value="boiler_type_unknown">I don't know</option>
+                </select>
+                <button></button>
+            </form>
+            <a href="http://www.baxi.co.uk/gas-boilers/boiler-information/choosing-the-right-boiler.htm">About the boiler types</a>
+
+        </div>
+    </div>
+</div>
+<!-- End Two up finder row -->
+
+
+<!-- CTA block -->
+<div class="wrapper flex">
+    <header>
+        <h2>Helping you to find your ideal heating system
+</h2>
+        <p>Baxi offer dedicated customer service throughout the lifetime
+ of your boiler, providing expert maintenance, service and support,
+whenever you need it.</p>
+    </header>
+    <div class="cta iconbox green">
+        <a href="http://www.baxi.co.uk/gas-boilers.htm"><img src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/icon-green-boiler.png">
+        <div class="gamma">Boiler range</div></a>
+        <p>Our range of combi, system and heat only boilers come in a variety of outputs so there's a Baxi boiler to suit every home.</p>
+        <a class="buttonesque" href="http://www.baxi.co.uk/gas-boilers.htm">Boiler range&nbsp;&gt;</a>
+    </div>
+    <div class="cta iconbox orange">
+        <a href="http://www.baxi.co.uk/customer-support/register-your-warranty.htm"><img src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/icon-orange-guarantee.png">
+        <div class="gamma">Warranty registration</div></a>
+        <p>Your warranty will give you total peace of mind and
+protection. It means all parts and labour costs are covered if your
+appliance ever needs repairing while the warranty is valid, subject to
+our terms and conditions.</p>
+        <a class="buttonesque" href="http://www.baxi.co.uk/customer-support/register-your-warranty.htm">Warranty registration&nbsp;&gt;</a>
+    </div>
+    <div class="cta iconbox blue">
+        <a href="http://www.baxi.co.uk/customer-support.htm"><img src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/icon-blue-speak.png">
+        <div class="gamma">Baxi Customer Support</div></a>
+        <p>Baxi Customer Support has a nationwide network of employed
+Gas Safe registered engineers, ready to help whether your boiler is in
+warranty or not. </p>
+        <a class="buttonesque" href="http://www.baxi.co.uk/customer-support.htm">Baxi Customer Support&nbsp;&gt;</a>
+    </div>
+    <div class="cta iconbox red">
+        <a href="http://www.baxi.co.uk/information-and-advice/error-codes.htm"><img src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/icon-red-tools.png">
+        <div class="gamma">Fault finding</div></a>
+        <p>Error codes communicate messages about the condition of the
+boiler. These codes can help your engineer identify any problems with
+your boiler.</p>
+        <a class="buttonesque" href="http://www.baxi.co.uk/information-and-advice/error-codes.htm">Fault finding&nbsp;&gt;</a>
+    </div>
+    <div class="cta iconbox grey">
+        <a href="http://www.baxi.co.uk/customer-support/baxi-protection-plans.htm"><img src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/icon-grey-hands.png">
+        <div class="gamma">Protection plans</div></a>
+        <p>Your boiler warranty provides free parts and labour cover.
+When the warranty runs out, we're still here to help you with our range
+of protection plans.</p>
+        <a class="buttonesque" href="http://www.baxi.co.uk/customer-support/baxi-protection-plans.htm">Protection plans&nbsp;&gt;</a>
+    </div>
+    <div class="cta iconbox yellow">
+        <a href="http://www.baxi.co.uk/literature-library.htm"><img src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/icon-yellow-book.png">
+        <div class="gamma">Literature</div></a>
+        <p>Whether you're looking for user guides, installation manuals
+or product brochures, our literature library includes product literature
+ for all Baxi products.</p>
+        <a class="buttonesque" href="http://www.baxi.co.uk/literature-library.htm">Literature&nbsp;&gt;</a>
+    </div>
+</div>
+<!-- End CTA block -->
+
+<!-- DIVIDER -->
+<div class="cta divider beta">
+    <div class="wrapper flex">
+        <img src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/works-tshirt-frontpage.png">
+        <div class="textBlock">
+            <div class="headline">
+                Are you a trade customer?
+            </div>
+            <p>Visit our dedicated trade area where you can enjoy all the benefits of Works, training and technical support.</p>
+        </div>
+        <a href="http://www.baxi.co.uk/trade-area.htm" class="buttonesque">Visit trade area&nbsp;&gt;</a>
+    </div>
+</div>
+<!-- END DIVIDER -->
+<!-- VIDEO FEATURE -->
+<div class="divider featuredarticle">
+    <div class="wrapper flex">
+                <div class="content">
+                    <!--This should be able to contain pretty much anything - video, image, text -->
+                <iframe src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/bfIfXFKE4w4.htm" allowfullscreen="" frameborder="0" height="259" width="100%"></iframe>
+                <p class="caption">How to repressurise your boiler using a Rigid Filling Loop</p>
+                </div>
+                <div class="content">
+                    <!--This should be able to contain pretty much anything - video, image, text -->
+                    <div class="text">
+                        <h2><a href="http://www.baxi.co.uk/information-and-advice/how-to-videos.htm">How to videos&nbsp;&gt;</a></h2>
+                        <p>From time to time, your Baxi boiler may need a
+ bit of attention. It is quite normal for your boiler to need to be
+reset or re-pressurised. These are small maintenance tasks that you may
+be able to do easily without the need to call your installer.</p>
+                        <p>To help you, we have created a number of video guides that will take you through the procedures very simply, step by step.</p>
+                        <p>The content in Baxi videos is intended to be
+used as a general guideline and for information purposes only. Please
+read our video disclaimer for full details.</p>
+                    </div>
+                </div>
+
+    </div>
+</div>
+<!-- END VIDEO FEATURE -->
+<!--END CONTENT-->
+
+
+
+
+
+<div class="wrapper">
+
+    <!-- home footer -->
+    <footer class="pure-g-r">
+        <div class="pure-u-1-4">
+            <nav>
+                <h3>Products</h3>
+                <ul>
+
+                    <li>
+                        <a href="http://www.baxi.co.uk/gas-boilers/combi.htm">Combi boilers</a>
+                    </li>
+
+                    <li>
+                        <a href="http://www.baxi.co.uk/gas-boilers/heat-only.htm">Heat only boilers</a>
+                    </li>
+
+                    <li>
+                        <a href="http://www.baxi.co.uk/gas-boilers/system.htm">System boilers</a>
+                    </li>
+
+                    <li>
+                        <a href="http://www.baxi.co.uk/renewables.htm">Renewables</a>
+                    </li>
+
+                </ul>
+            </nav>
+            </div>
+
+
+            <div class="pure-u-1-4">
+            <nav>
+                <h3>Services</h3>
+                <ul>
+
+                    <li>
+                        <a href="http://www.baxi.co.uk/customer-support.htm">Baxi Customer Support</a>
+                    </li>
+
+                    <li>
+                        <a href="http://www.baxi.co.uk/trade-area/support/parts.htm">Baxi Genuine Parts</a>
+                    </li>
+
+                    <li>
+                        <a href="http://www.baxi.co.uk/trade-area/training.htm">Baxi Training</a>
+                    </li>
+
+                    <li>
+                        <a href="http://www.baxi.co.uk/trade-resources/works.htm">Baxi Works - installer loyalty</a>
+                    </li>
+
+                </ul>
+            </nav>
+            </div>
+
+            <div class="pure-u-1-4">
+            <nav>
+                <h3>About</h3>
+                <ul>
+
+                    <li>
+                        <a href="http://www.baxi.co.uk/about-baxi.htm">About Baxi</a>
+                    </li>
+
+                    <li>
+                        <a href="http://www.baxi.co.uk/about-baxi/contact-baxi.htm">Contact Us</a>
+                    </li>
+
+                    <li>
+                        <a href="http://www.baxi.co.uk/news.htm">Press office</a>
+                    </li>
+
+                    <li>
+                        <a href="http://www.baxi.co.uk/about-baxi/privacy.htm">Privacy</a>
+                    </li>
+
+                    <li>
+                        <a href="http://www.baxi.co.uk/about-baxi/accessibility.htm">Accessibility</a>
+                    </li>
+
+                    <li>
+                        <a href="http://www.baxi.co.uk/about-baxi/cookie-policy.htm">Cookie policy</a>
+                    </li>
+
+                    <li>
+                        <a href="http://www.baxi.co.uk/about-baxi/disclaimer.htm">Disclaimer</a>
+                    </li>
+
+                </ul>
+            </nav>
+          </div>
+
+          <div class="pure-u-1-4">
+            <nav>
+                <h3>Our brands</h3>
+                <ul>
+
+                    <li>
+                        <a onclick="trackOutboundLink('http://www.andrewswaterheaters.co.uk'); return false;" href="http://www.andrewswaterheaters.co.uk/" target="_blank">Andrews Water Heaters</a>
+                    </li>
+
+                    <li>
+                        <a onclick="trackOutboundLink('http://www.baxipottertonmyson.ie'); return false;" href="http://www.baxipottertonmyson.ie/" target="_blank">Baxi Potterton Myson</a>
+                    </li>
+
+                    <li>
+                        <a onclick="trackOutboundLink('http://www.heatraesadia.com'); return false;" href="http://www.heatraesadia.com/" target="_blank">Heatrae Sadia</a>
+                    </li>
+
+                    <li>
+                        <a onclick="trackOutboundLink('http://www.potterton.co.uk'); return false;" href="http://www.potterton.co.uk/" target="_blank">Potterton</a>
+                    </li>
+
+                    <li>
+                        <a onclick="trackOutboundLink('http://www.pottertoncommercial.co.uk'); return false;" href="http://www.pottertoncommercial.co.uk/" target="_blank">Potterton Commercial</a>
+                    </li>
+
+                    <li>
+                        <a onclick="trackOutboundLink('http://www.senertec.co.uk'); return false;" href="http://www.senertec.co.uk/" target="_blank">SenerTec</a>
+                    </li>
+
+                </ul>
+            </nav>
+            <a onclick="trackOutboundLink('https://www.investorsinpeople.com'); return false;" href="https://www.investorsinpeople.com/" target="_blank"><img style="max-width: 60%; margin-top: -1em; margin-bottom: 1em;" src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/investors-in-people-logo.png"></a>
+          </div>
+
+
+
+        <div class="pure-u-3-4">
+            <div class="gutter">
+                © Copyright Baxi 2013 - 2016
+            </div>
+        </div>
+
+        <div class="pure-u-1-4">
+
+            <div class="socialLinks gone-small">
+                    <a onclick="_gaq.push(['_trackEvent', 'social', ',click', 'Facebook']); ga('send', 'event', 'social', ',click', 'Facebook'); trackOutboundLink('https://www.facebook.com/baxiuk'); return false;" href="https://www.facebook.com/baxiuk"><img class="uwamozdbyglqpycffvok" src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/icon-blue-facebook.png" alt="Visit our Facebook page"></a><!--
+                    --><a onclick="_gaq.push(['_trackEvent', 'social', ',click', 'Twitter']); ga('send', 'event', 'social', ',click', 'Twitter'); trackOutboundLink('https://twitter.com/baxiboilers'); return false;" href="https://twitter.com/baxiboilers"><img class="uwamozdbyglqpycffvok" src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/icon-blue-twitter.png" alt="Follow us on Twitter"></a><!--
+                    --><a onclick="_gaq.push(['_trackEvent', 'social', ',click', 'YouTube']); ga('send', 'event', 'social', ',click', 'YouTube'); trackOutboundLink('http://www.youtube.com/user/BaxiGroup'); return false;" href="http://www.youtube.com/user/BaxiGroup"><img class="uwamozdbyglqpycffvok" src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/icon-blue-youtube.png" alt="Watch our videos on YouTube"></a>
+                </div>
+        </div>
+    </footer>
+
+<!-- Google Custom Search integration -->
+<gcse:searchresults-only linktarget="_self"></gcse:searchresults-only>
+
+</div>
+
+
+
+
+<script src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/scripts.js"></script>
+<script src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/megamenu.js"></script>
+<script src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/dr-placeholder-shiv.js"></script>
+<script src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/jquery-extended-selectors.js"></script>
+<script src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/jquery_002.js"></script>
+<script src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/baxi-able-to-pay.js"></script><div id="ableToPay_Container" style="display:none;"><div id="ableToPay_Popup"><h2><span class="atp-didyouknow">Did you know?</span> Baxi can install your boiler through our network of independent Baxi Approved Installers?</h2><ul><li id="atp-button"><a class="fake-hover" id="atp-link" href="http://solutions.baxi.co.uk/?faiCta=true" onclick="_gaq.push(['_trackEvent', 'Find-a-boiler', 'Did-you-know-1', 'Quote']); ga('send', 'event', 'Find-a-boiler', 'Did-you-know-1', 'Quote');"><span>Get an online estimate from Baxi<span style="display: inline-block;"><img src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/white_arrow.png"></span></span></a></li><li id="fai-tel"><div>Call Baxi on <span class="bold" style="display: inline-block">0800 028 6220</span></div></li><li id="fai-button"><a href="#" onclick="$('form#search-location-form').submit(); $.colorbox.close();_gaq.push(['_trackEvent', 'Find-a-boiler', 'Did-you-know-1', 'Find-an-installer']); ga('send', 'event', 'Find-a-boiler', 'Did-you-know-1', 'Find-an-installer'); return false;"><span>Find a local, independent installer<span style="display: inline-block;"><img src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/white_arrow.png"></span></span></a></li></ul></div></div>
+<script src="Baxi%20-%20Energy%20efficient%20boilers%20and%20heating%20solutions_files/jquery.js"></script>
+
+
+<!-- css media detection -->
+    <span class="_detect desktop"></span>
+    <span class="_detect tablet"></span>
+    <span class="_detect mobile"></span>
+<!-- /trade-area.htm -->
+
+
+<!-- Google Code for Remarketing Tag -->
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 972153134;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/972153134/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- Embedded WhosOn: Insert the script below at the point on your page where you want the Click To Chat link to appear -->
+
+
+
+<script>
+        //manage direct links:
+        $("div#mainNav>a").each(function(){
+            if($(this).attr("data-directlink") === "true"){
+                $(this).attr("data-subnav","NONE");
+            }
+        });
+        </script>
+
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Baxi",
+  "url" : "http://www.baxi.co.uk/",
+  "sameAs" : [ "https://www.facebook.com/baxiuk",
+    "https://twitter.com/baxiboilers",
+    "https://www.youtube.com/user/BaxiGroup"]
+}
+</script>
+
+<script type="text/javascript">
+sWOInline = false;
+if(typeof sWOTrackPage=='function')sWOTrackPage();
+</script>
+
+<!-- End of embedded WhosOn -->
+
+<script type="text/javascript">
+   var adiInit = "3241", adiRVO = true;
+   var adiFunc = null;
+   (function() {
+      var adiSrc = document.createElement("script"); adiSrc.type = "text/javascript";
+      adiSrc.async = true;
+      adiSrc.src = ("https:" == document.location.protocol ? "https://static-ssl" : "http://static-cdn")
+      + ".responsetap.com/static/scripts/rTapTrack.min.js";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(adiSrc, s);
+   })();
+</script>
+
+<!-- SessionCam Client Integration v6.0 -->
+<script type="text/javascript">
+//<![CDATA[
+var scRec=document.createElement('SCRIPT');
+scRec.type='text/javascript';
+scRec.src="//d2oh4tlt9mrke9.cloudfront.net/Record/js/sessioncam.recorder.js";
+document.getElementsByTagName('head')[0].appendChild(scRec);
+//]]>
+</script>
+<!-- End SessionCam -->
+
+
+<div style="display: none;" id="cboxOverlay"></div><div style="display: none;" tabindex="-1" role="dialog" class="" id="colorbox"><div id="cboxWrapper"><div><div style="float: left;" id="cboxTopLeft"></div><div style="float: left;" id="cboxTopCenter"></div><div style="float: left;" id="cboxTopRight"></div></div><div style="clear: left;"><div style="float: left;" id="cboxMiddleLeft"></div><div style="float: left;" id="cboxContent"><div style="float: left;" id="cboxTitle"></div><div style="float: left;" id="cboxCurrent"></div><button id="cboxPrevious" type="button"></button><button id="cboxNext" type="button"></button><button id="cboxSlideshow"></button><div style="float: left;" id="cboxLoadingOverlay"></div><div style="float: left;" id="cboxLoadingGraphic"></div></div><div style="float: left;" id="cboxMiddleRight"></div></div><div style="clear: left;"><div style="float: left;" id="cboxBottomLeft"></div><div style="float: left;" id="cboxBottomCenter"></div><div style="float: left;" id="cboxBottomRight"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
